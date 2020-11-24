@@ -1,9 +1,11 @@
-/** Colores **/
-/** Fuentes **/
 .blog {
-  background-color: #ca4444;
   max-width: unset;
   padding: 5% 10%;
+}
+
+h2 {
+  background-color: black;
+  color: white;
 }
 
 /*# sourceMappingURL=main.css.map */

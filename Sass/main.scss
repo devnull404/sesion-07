@@ -1,7 +1,11 @@
-@import './global';
+@import './maxin';
+@import './herencia.scss';
 
 .blog {
-    background-color: $white;
     max-width: unset;
     padding: 5% 10%;
+}
+
+h2 {
+    @include prueba;
 }

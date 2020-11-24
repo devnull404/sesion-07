@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../Sass/_global.scss","../Sass/main.scss"],"names":[],"mappings":"AAAA;AAOA;ACLA;EACI,kBDCI;ECAJ;EACA","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../Sass/main.scss","../Sass/_maxin.scss"],"names":[],"mappings":"AAGA;EACI;EACA;;;AAGJ;ECPI;EACA","file":"main.css"}
